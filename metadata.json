@@ -1,0 +1,6 @@
+{
+  "name": "3D Dunyo Xaritasi - Interaktiv Globus",
+  "description": "Barcha jahon davlatlari aks etgan interaktiv 3D Yer globusi. Istalgan davlatni tanlab, u haqidagi to'liq ma'lumotlarni o'rganing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
